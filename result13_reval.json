@@ -1,0 +1,36 @@
+[
+    {
+      "name": "AAMEENA SANA M",
+      "USN": "1BI23CS003",
+      "results": [
+        {
+          "subjectCode": "BENGK106",
+          "subjectName": "COMMUNICATIVE ENGLISH",
+          "ia": 45,
+          "ea": 40,
+          "total": 85,
+          "result": "P"
+        }
+      ],
+      "Batch": 2023,
+      "Sem": 1,
+      "Section": "A"
+    },
+    {
+        "name": "AARADHYA MEHRA",
+        "USN": "1BI23CS004",
+        "results": [
+          {
+            "subjectCode": "BMATS101",
+            "subjectName": "MATHEMATICS FOR CSE STREAM-I",
+            "ia": 48,
+            "ea": 40,
+            "total": 88,
+            "result": "P"
+          }
+        ],
+        "Batch": 2023,
+        "Sem": 1,
+        "Section": "A"
+    }
+]
